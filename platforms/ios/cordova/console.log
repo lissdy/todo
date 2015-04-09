@@ -1,0 +1,16 @@
+2015-04-09 15:29:35.583 todo[69364:3145563] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/F3DFB8BC-DB2F-4FCA-AD53-A3E9A4151FF8/Library/Cookies/Cookies.binarycookies
+2015-04-09 15:29:35.831 todo[69364:3145563] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-09 15:29:35.831 todo[69364:3145563] Multi-tasking -> Device: YES, App: YES
+2015-04-09 15:29:35.844 todo[69364:3145563] Unlimited access to network resources
+2015-04-09 15:29:36.154 todo[69364:3145563] [CDVTimer][keyboard] 0.092983ms
+2015-04-09 15:29:36.154 todo[69364:3145563] [CDVTimer][TotalPluginStartup] 0.375032ms
+2015-04-09 15:29:36.719 todo[69364:3145563] Resetting plugins due to page load.
+2015-04-09 15:29:36.971 todo[69364:3145563] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/F73F4A7B-2CFD-4B99-8E84-E513D1C98929/todo.app/www/index.html
+2015-04-09 15:33:22.705 todo[69483:3147947] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/32825301-2B7B-49AC-98D7-5492D0F77EA7/Library/Cookies/Cookies.binarycookies
+2015-04-09 15:33:22.900 todo[69483:3147947] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-09 15:33:22.900 todo[69483:3147947] Multi-tasking -> Device: YES, App: YES
+2015-04-09 15:33:22.914 todo[69483:3147947] Unlimited access to network resources
+2015-04-09 15:33:23.178 todo[69483:3147947] [CDVTimer][keyboard] 0.067055ms
+2015-04-09 15:33:23.178 todo[69483:3147947] [CDVTimer][TotalPluginStartup] 0.611961ms
+2015-04-09 15:33:23.442 todo[69483:3147947] Resetting plugins due to page load.
+2015-04-09 15:33:23.735 todo[69483:3147947] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/99F9977C-C3EC-4F64-A135-856E96BA72B4/todo.app/www/index.html
