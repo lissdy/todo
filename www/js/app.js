@@ -7,14 +7,14 @@ angular.module('todo', ['ionic'])
 .factory('Projects', function() {
   return {
     all: function() {
-      var projectString = window.localStorage['project'];
+      var projectString = window.localStorage['Project'];
       if(projectString) {
         return angular.fromJson(projectString);
       }
       return [];
     },
     save: function(projects) {
-      window.localStorage['project'] = angular.toJson(projects);
+      window.localStorage['Project'] = angular.toJson(projects);
     },
     newProject: function(projectTitle) {
       // Add a new project
@@ -33,6 +33,7 @@ angular.module('todo', ['ionic'])
 })
 
 .controller('TodoCtrl', function($scope, $timeout, $ionicModal, Projects, $ionicSideMenuDelegate) {
+
 
   // A utility function for creating a new project
   // with the given projectTitle
@@ -74,17 +75,14 @@ angular.module('todo', ['ionic'])
 
   $scope.createTask = function(task) {
     if(!$scope.activeProject || !task) {
-      alert(1)
       return;
     }
     $scope.activeProject.tasks.push({
       title: task.title
     });
     $scope.taskModal.hide();
-    alert(tasks)
     // Inefficient, but save all the projects
     Projects.save($scope.projects);
-
     task.title = "";
   };
 

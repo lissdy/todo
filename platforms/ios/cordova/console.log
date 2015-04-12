@@ -316,3 +316,171 @@
 2015-04-10 20:44:41.782 todo[6328:265895] [CDVTimer][TotalPluginStartup] 0.486970ms
 2015-04-10 20:44:42.034 todo[6328:265895] Resetting plugins due to page load.
 2015-04-10 20:44:42.617 todo[6328:265895] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/E174112C-F649-48D3-93B4-F58ABE507D65/todo.app/www/index.html
+2015-04-10 20:48:38.002 todo[6461:268168] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/721AF46B-DA1A-4C58-87C6-A6CE7C20C51B/Library/Cookies/Cookies.binarycookies
+2015-04-10 20:48:38.081 todo[6461:268168] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 20:48:38.082 todo[6461:268168] Multi-tasking -> Device: YES, App: YES
+2015-04-10 20:48:38.083 todo[6461:268168] Unlimited access to network resources
+2015-04-10 20:48:38.167 todo[6461:268168] [CDVTimer][keyboard] 0.057995ms
+2015-04-10 20:48:38.167 todo[6461:268168] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-04-10 20:48:38.259 todo[6461:268168] Resetting plugins due to page load.
+2015-04-10 20:48:38.544 todo[6461:268168] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/95DDBF99-CC0D-4B2A-A0E4-E24CB16B1875/todo.app/www/index.html
+2015-04-10 20:49:24.272 todo[6552:268859] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/B93C25DC-C812-48BA-BC7E-1780B67AC31E/Library/Cookies/Cookies.binarycookies
+2015-04-10 20:49:24.344 todo[6552:268859] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 20:49:24.344 todo[6552:268859] Multi-tasking -> Device: YES, App: YES
+2015-04-10 20:49:24.346 todo[6552:268859] Unlimited access to network resources
+2015-04-10 20:49:24.430 todo[6552:268859] [CDVTimer][keyboard] 0.056982ms
+2015-04-10 20:49:24.430 todo[6552:268859] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-04-10 20:49:24.527 todo[6552:268859] Resetting plugins due to page load.
+2015-04-10 20:49:24.794 todo[6552:268859] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/87021757-99A7-401F-AA88-C91D3A15D942/todo.app/www/index.html
+2015-04-10 20:50:30.376 todo[6639:269641] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/35013FC8-A77F-4A93-B5E6-23AA389F2E54/Library/Cookies/Cookies.binarycookies
+2015-04-10 20:50:30.457 todo[6639:269641] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 20:50:30.457 todo[6639:269641] Multi-tasking -> Device: YES, App: YES
+2015-04-10 20:50:30.459 todo[6639:269641] Unlimited access to network resources
+2015-04-10 20:50:30.560 todo[6639:269641] [CDVTimer][keyboard] 0.057995ms
+2015-04-10 20:50:30.560 todo[6639:269641] [CDVTimer][TotalPluginStartup] 0.214040ms
+2015-04-10 20:50:30.648 todo[6639:269641] Resetting plugins due to page load.
+2015-04-10 20:50:30.913 todo[6639:269641] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/E601D607-906C-43DD-BDEF-809CEA057082/todo.app/www/index.html
+2015-04-10 20:58:02.630 todo[6740:272378] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/0EDEE17A-8981-407F-9A18-8057EE663C75/Library/Cookies/Cookies.binarycookies
+2015-04-10 20:58:02.825 todo[6740:272378] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 20:58:02.825 todo[6740:272378] Multi-tasking -> Device: YES, App: YES
+2015-04-10 20:58:02.837 todo[6740:272378] Unlimited access to network resources
+2015-04-10 20:58:03.086 todo[6740:272378] [CDVTimer][keyboard] 0.074029ms
+2015-04-10 20:58:03.086 todo[6740:272378] [CDVTimer][TotalPluginStartup] 0.294030ms
+2015-04-10 20:58:03.278 todo[6740:272378] Resetting plugins due to page load.
+2015-04-10 20:58:03.581 todo[6740:272378] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/01C2BBB8-AC71-4BE3-8BE9-8E493DD98D01/todo.app/www/index.html
+2015-04-10 21:00:33.562 todo[6830:273564] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/1C357562-3134-411C-95C9-C43B028B8B86/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:00:33.650 todo[6830:273564] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:00:33.650 todo[6830:273564] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:00:33.652 todo[6830:273564] Unlimited access to network resources
+2015-04-10 21:00:33.742 todo[6830:273564] [CDVTimer][keyboard] 0.056028ms
+2015-04-10 21:00:33.742 todo[6830:273564] [CDVTimer][TotalPluginStartup] 0.216007ms
+2015-04-10 21:00:33.854 todo[6830:273564] Resetting plugins due to page load.
+2015-04-10 21:00:34.205 todo[6830:273564] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/E58FF085-9A62-4110-BBC9-4A20A1EC31F4/todo.app/www/index.html
+2015-04-10 21:01:22.508 todo[6916:274209] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/FA23CF6B-BCFB-4CB6-A4DF-41FFF6F7A305/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:01:22.596 todo[6916:274209] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:01:22.596 todo[6916:274209] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:01:22.598 todo[6916:274209] Unlimited access to network resources
+2015-04-10 21:01:22.698 todo[6916:274209] [CDVTimer][keyboard] 0.074983ms
+2015-04-10 21:01:22.698 todo[6916:274209] [CDVTimer][TotalPluginStartup] 0.275970ms
+2015-04-10 21:01:22.768 todo[6916:274209] Resetting plugins due to page load.
+2015-04-10 21:01:22.993 todo[6916:274209] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/D96F252F-1672-473E-A097-85E4F21B67B3/todo.app/www/index.html
+2015-04-10 21:06:45.283 todo[7007:276851] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/AC1B65E5-CDD6-46F7-9116-8B3598E56AA7/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:06:45.477 todo[7007:276851] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:06:45.478 todo[7007:276851] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:06:45.490 todo[7007:276851] Unlimited access to network resources
+2015-04-10 21:06:45.737 todo[7007:276851] [CDVTimer][keyboard] 0.066042ms
+2015-04-10 21:06:45.737 todo[7007:276851] [CDVTimer][TotalPluginStartup] 0.620008ms
+2015-04-10 21:06:45.984 todo[7007:276851] Resetting plugins due to page load.
+2015-04-10 21:06:46.445 todo[7007:276851] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/833CE892-7770-412A-A592-C950557140A5/todo.app/www/index.html
+2015-04-10 21:07:41.521 todo[7090:277748] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/F3FA0173-D374-4387-A0CB-855B573005B0/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:07:41.602 todo[7090:277748] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:07:41.603 todo[7090:277748] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:07:41.604 todo[7090:277748] Unlimited access to network resources
+2015-04-10 21:07:41.688 todo[7090:277748] [CDVTimer][keyboard] 0.054002ms
+2015-04-10 21:07:41.688 todo[7090:277748] [CDVTimer][TotalPluginStartup] 0.216007ms
+2015-04-10 21:07:41.767 todo[7090:277748] Resetting plugins due to page load.
+2015-04-10 21:07:42.033 todo[7090:277748] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/AF0C29E2-D95C-40E1-B899-B3001630FD39/todo.app/www/index.html
+2015-04-10 21:09:38.920 todo[7184:279099] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/D3130019-5AE9-4991-9D51-8C9B45725A8B/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:09:39.021 todo[7184:279099] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:09:39.021 todo[7184:279099] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:09:39.023 todo[7184:279099] Unlimited access to network resources
+2015-04-10 21:09:39.105 todo[7184:279099] [CDVTimer][keyboard] 0.054002ms
+2015-04-10 21:09:39.105 todo[7184:279099] [CDVTimer][TotalPluginStartup] 0.213981ms
+2015-04-10 21:09:39.217 todo[7184:279099] Resetting plugins due to page load.
+2015-04-10 21:09:39.454 todo[7184:279099] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/47277259-1764-4E7C-8B4A-FEC818FC3EF3/todo.app/www/index.html
+2015-04-10 21:10:57.108 todo[7272:280077] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/91274695-3766-4490-9510-275082D35E07/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:10:57.178 todo[7272:280077] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:10:57.179 todo[7272:280077] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:10:57.180 todo[7272:280077] Unlimited access to network resources
+2015-04-10 21:10:57.273 todo[7272:280077] [CDVTimer][keyboard] 0.093997ms
+2015-04-10 21:10:57.274 todo[7272:280077] [CDVTimer][TotalPluginStartup] 0.265002ms
+2015-04-10 21:10:57.416 todo[7272:280077] Resetting plugins due to page load.
+2015-04-10 21:10:57.667 todo[7272:280077] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/20EC3D17-F8B1-4260-87B3-392BD1B2F19C/todo.app/www/index.html
+2015-04-10 21:11:24.630 todo[7355:280575] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/7B661E44-9768-44C5-B046-535CF701971C/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:11:24.745 todo[7355:280575] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:11:24.745 todo[7355:280575] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:11:24.747 todo[7355:280575] Unlimited access to network resources
+2015-04-10 21:11:24.848 todo[7355:280575] [CDVTimer][keyboard] 0.056028ms
+2015-04-10 21:11:24.848 todo[7355:280575] [CDVTimer][TotalPluginStartup] 0.222981ms
+2015-04-10 21:11:24.938 todo[7355:280575] Resetting plugins due to page load.
+2015-04-10 21:11:25.215 todo[7355:280575] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/7C45829F-8C2D-4590-8170-8690C73D2ACC/todo.app/www/index.html
+2015-04-10 21:12:02.336 todo[7442:281153] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/5BC666FC-65BA-4857-8AB9-418428E45C98/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:12:02.413 todo[7442:281153] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:12:02.413 todo[7442:281153] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:12:02.416 todo[7442:281153] Unlimited access to network resources
+2015-04-10 21:12:02.503 todo[7442:281153] [CDVTimer][keyboard] 0.055969ms
+2015-04-10 21:12:02.503 todo[7442:281153] [CDVTimer][TotalPluginStartup] 0.214994ms
+2015-04-10 21:12:02.639 todo[7442:281153] Resetting plugins due to page load.
+2015-04-10 21:12:02.898 todo[7442:281153] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/DD05369A-FD37-478B-B839-56090949904A/todo.app/www/index.html
+2015-04-10 21:16:03.401 todo[7533:282653] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/7BEEB293-E5CE-4EF5-AE5E-917BE7802887/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:16:03.499 todo[7533:282653] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:16:03.500 todo[7533:282653] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:16:03.501 todo[7533:282653] Unlimited access to network resources
+2015-04-10 21:16:03.620 todo[7533:282653] [CDVTimer][keyboard] 0.055969ms
+2015-04-10 21:16:03.621 todo[7533:282653] [CDVTimer][TotalPluginStartup] 0.250995ms
+2015-04-10 21:16:03.710 todo[7533:282653] Resetting plugins due to page load.
+2015-04-10 21:16:04.001 todo[7533:282653] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/77D53709-C90B-45E3-9448-33949A25960D/todo.app/www/index.html
+2015-04-10 21:16:34.650 todo[7616:283240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/14CDBFB7-D7A9-43DD-A195-C9EFA74F87BD/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:16:34.738 todo[7616:283240] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:16:34.739 todo[7616:283240] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:16:34.740 todo[7616:283240] Unlimited access to network resources
+2015-04-10 21:16:34.847 todo[7616:283240] [CDVTimer][keyboard] 0.057995ms
+2015-04-10 21:16:34.847 todo[7616:283240] [CDVTimer][TotalPluginStartup] 0.227034ms
+2015-04-10 21:16:34.929 todo[7616:283240] Resetting plugins due to page load.
+2015-04-10 21:16:35.205 todo[7616:283240] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/BDC9F551-4AE5-4D94-82FE-460C601F1A25/todo.app/www/index.html
+2015-04-10 21:21:18.506 todo[7717:285228] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/7C620FFC-03C0-4494-AE71-D452447F343A/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:21:18.581 todo[7717:285228] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:21:18.581 todo[7717:285228] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:21:18.582 todo[7717:285228] Unlimited access to network resources
+2015-04-10 21:21:18.674 todo[7717:285228] [CDVTimer][keyboard] 0.056982ms
+2015-04-10 21:21:18.674 todo[7717:285228] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-04-10 21:21:18.823 todo[7717:285228] Resetting plugins due to page load.
+2015-04-10 21:21:19.098 todo[7717:285228] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/6AC823E8-28C5-4A01-B7B6-91F9E3A014F5/todo.app/www/index.html
+2015-04-10 21:22:17.367 todo[7801:285913] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/D4555AF9-175C-4E97-8BCB-25C1A9A8931A/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:22:17.437 todo[7801:285913] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:22:17.437 todo[7801:285913] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:22:17.438 todo[7801:285913] Unlimited access to network resources
+2015-04-10 21:22:17.522 todo[7801:285913] [CDVTimer][keyboard] 0.052989ms
+2015-04-10 21:22:17.522 todo[7801:285913] [CDVTimer][TotalPluginStartup] 0.214994ms
+2015-04-10 21:22:17.615 todo[7801:285913] Resetting plugins due to page load.
+2015-04-10 21:22:17.817 todo[7801:285913] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/6EC22C3F-33FB-4761-823C-818328297A65/todo.app/www/index.html
+2015-04-10 21:23:49.999 todo[7892:286828] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/36554456-459E-4015-B420-A90B2813ECB4/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:23:50.096 todo[7892:286828] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:23:50.096 todo[7892:286828] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:23:50.098 todo[7892:286828] Unlimited access to network resources
+2015-04-10 21:23:50.215 todo[7892:286828] [CDVTimer][keyboard] 0.056028ms
+2015-04-10 21:23:50.215 todo[7892:286828] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-04-10 21:23:50.296 todo[7892:286828] Resetting plugins due to page load.
+2015-04-10 21:23:50.577 todo[7892:286828] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/A3F3A8BB-DEDF-4DCA-9A58-0B7264399AC5/todo.app/www/index.html
+2015-04-10 21:25:17.411 todo[7982:287628] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/807F8623-E8EA-4AE6-9E8A-7A744EBC1941/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:25:17.495 todo[7982:287628] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:25:17.495 todo[7982:287628] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:25:17.497 todo[7982:287628] Unlimited access to network resources
+2015-04-10 21:25:17.591 todo[7982:287628] [CDVTimer][keyboard] 0.054002ms
+2015-04-10 21:25:17.591 todo[7982:287628] [CDVTimer][TotalPluginStartup] 0.249028ms
+2015-04-10 21:25:17.677 todo[7982:287628] Resetting plugins due to page load.
+2015-04-10 21:25:17.894 todo[7982:287628] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/3E50328F-D7B9-4C66-B41F-6C2F9E0BE0F5/todo.app/www/index.html
+2015-04-10 21:26:45.226 todo[8068:288560] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/9011012E-54D7-477C-8412-2CB203C93B2E/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:26:45.313 todo[8068:288560] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:26:45.313 todo[8068:288560] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:26:45.314 todo[8068:288560] Unlimited access to network resources
+2015-04-10 21:26:45.413 todo[8068:288560] [CDVTimer][keyboard] 0.056982ms
+2015-04-10 21:26:45.413 todo[8068:288560] [CDVTimer][TotalPluginStartup] 0.236988ms
+2015-04-10 21:26:45.544 todo[8068:288560] Resetting plugins due to page load.
+2015-04-10 21:26:45.835 todo[8068:288560] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/5C6A2224-7B78-402D-A9F9-1E1F5152CFE0/todo.app/www/index.html
+2015-04-10 21:30:17.437 todo[8161:290292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/9CAD75FA-7C01-440D-961B-C7D9E06370C4/Library/Cookies/Cookies.binarycookies
+2015-04-10 21:30:17.529 todo[8161:290292] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-10 21:30:17.529 todo[8161:290292] Multi-tasking -> Device: YES, App: YES
+2015-04-10 21:30:17.532 todo[8161:290292] Unlimited access to network resources
+2015-04-10 21:30:17.619 todo[8161:290292] [CDVTimer][keyboard] 0.052035ms
+2015-04-10 21:30:17.619 todo[8161:290292] [CDVTimer][TotalPluginStartup] 0.214994ms
+2015-04-10 21:30:17.715 todo[8161:290292] Resetting plugins due to page load.
+2015-04-10 21:30:25.891 todo[8161:290292] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/E800F6D1-5F2F-4345-A5EB-F686697CCFFD/todo.app/www/index.html
+2015-04-12 20:55:27.233 todo[910:17569] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Data/Application/6AB1C250-4F2A-480A-AA98-9D3D5D87C13D/Library/Cookies/Cookies.binarycookies
+2015-04-12 20:55:27.416 todo[910:17569] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-12 20:55:27.416 todo[910:17569] Multi-tasking -> Device: YES, App: YES
+2015-04-12 20:55:27.429 todo[910:17569] Unlimited access to network resources
+2015-04-12 20:55:27.708 todo[910:17569] [CDVTimer][keyboard] 0.077009ms
+2015-04-12 20:55:27.708 todo[910:17569] [CDVTimer][TotalPluginStartup] 0.290990ms
+2015-04-12 20:55:27.930 todo[910:17569] Resetting plugins due to page load.
+2015-04-12 20:55:28.386 todo[910:17569] Finished load of: file:///Users/lisa/Library/Developer/CoreSimulator/Devices/BA0501AB-998E-4B8B-ADD9-D48166D3D545/data/Containers/Bundle/Application/FADD5344-EF92-42E1-AE23-0C0CAD2BE39F/todo.app/www/index.html
